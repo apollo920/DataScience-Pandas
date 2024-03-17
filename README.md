@@ -1,0 +1,1 @@
+Este é um projeto pessoal que estou desenvolvendo. Nele, o objetivo é aprimorar os meus conhecimentos em DataScience fazendo manipulações, pesquisas e visualizações de dados. O banco de dados utilizado foi da Kaggle TMDB 5000 MOVIES que é disponilizado gratuitamente.
